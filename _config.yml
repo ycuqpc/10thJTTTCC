@@ -1,0 +1,14 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already 
+
+# https://github.com/pages-themes/cayman/blob/master/_config.yml
+title: "10th Japan-Taiwan-Thai workshop on Theoretical and Computational Chemistry 2025"
+description: "May 31st, 2025 in Kanazawa-Hakkei Campus of Yokohama City University"
+
+author: Quantum Physical Chemistry Laboratory, Yokohama City University
+copyright: "© 2025 {author}"
+
+banner: "./home.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/photodata/index.html
+
+
